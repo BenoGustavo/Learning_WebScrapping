@@ -36,7 +36,3 @@ Windows:
 ```
 ???
 ```
-
-## 😄 About me.
-
-I'm learning english, so if i spell something wrong it's part of the process, thanks.
