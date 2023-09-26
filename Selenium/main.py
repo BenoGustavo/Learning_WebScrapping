@@ -18,6 +18,7 @@ searchInput = WebDriverWait(chromeBrowser, WAITING_TIME).until(
     expected_conditions.presence_of_element_located((By.ID, "APjFqb"))
 )
 
+# Write an text on the search bar
 searchInput.send_keys("Faculdade Cesusc")
 searchInput.send_keys(Keys.ENTER)
 
